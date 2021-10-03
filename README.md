@@ -1,3 +1,12 @@
+First and formost I want to shout out the musket mod which made this all possible. the lua script used to create smoke and rapid fire was directly taken from the mod
+
+if this is not okay, please let me know and I will remove this mod. I will not be accepting any money or any thing from this mod, it is just a hobby. I think it is cool and fun 
+but if this is hurtful to the musket mods creator, i will delete this repo forever and just play this mod by myself because I think it is very fun
+
+the musket mod is available here: http://www.bay12forums.com/smf/index.php?topic=171742.0
+
+
+
 # FutureGuys
 a dwarf fortress mod
 
