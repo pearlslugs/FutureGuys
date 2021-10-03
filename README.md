@@ -44,9 +44,6 @@ gremlins are goofy little dudes who are good bards and have a knack for sharp sh
 dwarves are essentailly as we all know and love them, they dig forts and shoot guns. their specialy is their robots. the robots will handle the mining, farming and what
 ever else as well as military services. robots are made from bronze metal, any type of mechanisms and gold for wiring. they still need to be implemented.
 
-__________________________________________________________________________________________________________________________________________________________________________
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 # Contributing
 
